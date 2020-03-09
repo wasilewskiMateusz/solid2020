@@ -1,4 +1,4 @@
-# Clean Code 2019
+# Clean Code 2020
 
 **Zadanie 1:** Clean Code
 
